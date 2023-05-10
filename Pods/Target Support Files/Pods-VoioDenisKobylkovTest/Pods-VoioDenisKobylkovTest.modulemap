@@ -1,0 +1,6 @@
+framework module Pods_VoioDenisKobylkovTest {
+  umbrella header "Pods-VoioDenisKobylkovTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
